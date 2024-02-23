@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e69db4b6d435a74391efb29d5e7842a, type: 3}
+  m_Name: Pusheen Bubble Tea
+  m_EditorClassIdentifier: 
+  cardName: 'Pusheen: Bubble Tea'
+  cardSymbol: Water
+  cardEffect: Small boba pearls, big damage.
+  cardOutline: {fileID: 21300000, guid: 898bc59603c6f4644b0e2e1e814674f2, type: 3}
+  cardPicture: {fileID: 21300000, guid: 635afc025772eec4ba1f98ebbc472a11, type: 3}
+  cardHasEffect: 0
+  monsterType: Beast
+  monsterLevel: 1
+  monsterAttack: 500
+  monsterDefense: 300

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c7e69cb2e22d50408f5c4fa2c7e0c63, type: 3}
+  m_Name: Pusheen Guardian
+  m_EditorClassIdentifier: 
+  cardName: Pusheen Guardian
+  cardSymbol: Trap
+  cardEffect: If a "Pusheen" monster should be destroyed when attacking, destroy
+    this card instead.
+  cardOutline: {fileID: 21300000, guid: 1a6efeac7dec1784783a5beab45da5b9, type: 3}
+  cardPicture: {fileID: 21300000, guid: 42fda7a0336afaf4ba7e6446016581bb, type: 3}
+  cardHasEffect: 1
+  spellTrapType: TRAP CARD
+  spellTrapIcon: 

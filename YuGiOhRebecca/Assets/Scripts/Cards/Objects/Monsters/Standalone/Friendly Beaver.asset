@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e69db4b6d435a74391efb29d5e7842a, type: 3}
+  m_Name: Friendly Beaver
+  m_EditorClassIdentifier: 
+  cardName: Friendly Beaver
+  cardSymbol: Earth
+  cardEffect: The friendly beaver is always ready to help.
+  cardOutline: {fileID: 21300000, guid: 898bc59603c6f4644b0e2e1e814674f2, type: 3}
+  cardPicture: {fileID: 21300000, guid: c16f425a429dbfb4587f0d76a308225a, type: 3}
+  cardHasEffect: 0
+  monsterType: Beast
+  monsterLevel: 2
+  monsterAttack: 500
+  monsterDefense: 1400

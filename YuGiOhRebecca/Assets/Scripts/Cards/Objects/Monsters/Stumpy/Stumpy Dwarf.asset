@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e69db4b6d435a74391efb29d5e7842a, type: 3}
+  m_Name: Stumpy Dwarf
+  m_EditorClassIdentifier: 
+  cardName: 'Stumpy: Dwarf'
+  cardSymbol: Earth
+  cardEffect: 'Once each game: If this card is in your hand or on the ground and
+    the opponent would attack you directly. You may Extra Summon a "Stumpy" Earth
+    type monster to the ground.'
+  cardOutline: {fileID: 21300000, guid: 13b3198f0f23309469ed1797afa6b1da, type: 3}
+  cardPicture: {fileID: 21300000, guid: f08e83891994fbc419b1d047caa18380, type: 3}
+  cardHasEffect: 1
+  monsterType: Warrior
+  monsterLevel: 3
+  monsterAttack: 1400
+  monsterDefense: 1600
